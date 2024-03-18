@@ -6,4 +6,4 @@ Welcome to:
 ## Gallery Page
 ## Sign Up Page
 
-### This website built for learning purpose.
+### This website is educational walkthrough website.
