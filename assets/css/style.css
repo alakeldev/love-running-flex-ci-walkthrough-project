@@ -353,7 +353,7 @@ main {
         max-width: 400px;
         position: absolute;
         left: 10%;
-        top: 150px;
+        top: 10%;
     }
 
     .text-input:hover {
